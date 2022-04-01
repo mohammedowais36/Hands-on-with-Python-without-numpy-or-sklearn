@@ -1,1 +1,1 @@
-# Project-on-Python
+# Hands-on with Python without numpy or sklearn
