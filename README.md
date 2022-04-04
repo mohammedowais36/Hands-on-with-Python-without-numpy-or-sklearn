@@ -1,1 +1,2 @@
 # Hands-on with Python without numpy or sklearn
+Python is a general-purpose, high-level, object-oriented, and easy-to-learn programming language. This project involves writing python codes for various tasks without using any libraries like NumPy or sklearn. This is for better understanding principles of machine learning tools by exploring and seeking to code these tools without using the python modules available for machine learning.
